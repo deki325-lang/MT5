@@ -1,0 +1,9 @@
+# build artifacts
+**/*.ex5
+
+# logs / caches
+**/Logs/
+**/Tester/
+**/profiles/
+**/*.log
+**/*.tmp
